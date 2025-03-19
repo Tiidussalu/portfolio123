@@ -34,29 +34,17 @@
       </div>
 
       <div class="grid grid-cols-3 gap-4 mt-8">
-        <a href="#"
+        <a href="https://www.instagram.com/ttiidussalu?igsh=ZzB1NnlrbGl2Z25q&utm_source=qr"
           class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
           Instagram
         </a>
-        <a href="#"
+        <a href="https://x.com/Cupz72395607"
           class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
           Twitter
         </a>
-        <a href="#"
+        <a href="https://www.facebook.com/share/1F8SCXHYsw/?mibextid=wwXIfr"
           class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
           Facebook
-        </a>
-        <a href="#"
-          class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
-          Behance
-        </a>
-        <a href="#"
-          class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
-          Dribbble
-        </a>
-        <a href="#"
-          class="flex justify-center items-center border border-black py-3 px-4 text-center rounded-lg bg-black text-[#d4bea4] hover:bg-[#d4bea4] hover:text-black transition-all">
-          Pinterest
         </a>
       </div>
     </div>

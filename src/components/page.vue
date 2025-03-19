@@ -11,12 +11,12 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
         <div class="project-box animate-slide-up">
           <h3 class="text-lg font-semibold mb-2 text-center text-[#DAC5A7]">
-            Disainimajaka tehnikarendi süsteem
+            Kukerpillid website
           </h3>
-          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">A technical system design for a lighthouse project.</p>
+          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">An Instruductive website for a band called Kukerpillid.</p>
           <div class="flex justify-center">
             <a
-              href="https://github.com/mariakallaste/Grupp-H"
+              href="https://github.com/elerikp/Kukerpillid.git"
               target="_blank"
               rel="noopener noreferrer"
               class="project-link"
@@ -28,12 +28,12 @@
 
         <div class="project-box animate-slide-up">
           <h3 class="text-lg font-semibold mb-2 text-center text-[#DAC5A7]">
-            AI-projekt
+            Avatar website
           </h3>
-          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">AI-based project showcasing machine learning techniques.</p>
+          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">A movie themed website</p>
           <div class="flex justify-center">
             <a
-              href="https://github.com/markheinmets/AI-projekt"
+              href="https://github.com/germovaa/grupp-9.git"
               target="_blank"
               rel="noopener noreferrer"
               class="project-link"
@@ -45,12 +45,12 @@
 
         <div class="project-box animate-slide-up">
           <h3 class="text-lg font-semibold mb-2 text-center text-[#DAC5A7]">
-            Oppenheimeri leht
+            Matrix website
           </h3>
-          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">A personal project inspired by the Oppenheimer theme.</p>
+          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">A movie themed project</p>
           <div class="flex justify-center">
             <a
-              href="https://github.com/1kert/school-project"
+              href="https://github.com/Tiidussalu/matrix-veeb.git"
               target="_blank"
               rel="noopener noreferrer"
               class="project-link"
@@ -62,12 +62,12 @@
 
         <div class="project-box animate-slide-up">
           <h3 class="text-lg font-semibold mb-2 text-center text-[#DAC5A7]">
-            Metallica-Website
+            Rental system
           </h3>
-          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">Fan website dedicated to Metallica with engaging features.</p>
+          <p class="text-sm mb-4 text-center text-[#DAC5A7] opacity-50">Rental system for Kuressaare Regional Training Centre design lighthouse cameras and their equipment.</p>
           <div class="flex justify-center">
             <a
-              href="https://github.com/JakobVapper/Metallica-Website"
+              href="https://github.com/araamat/Londid.git"
               target="_blank"
               rel="noopener noreferrer"
               class="project-link"
