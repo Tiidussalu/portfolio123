@@ -98,7 +98,7 @@
       <!-- Metallica Website -->
       <div
         class="p-8 bg-gray-800 bg-opacity-40 rounded-2xl border border-[#d4bea4] shadow-md hover:shadow-xl transition transform hover:-translate-y-1">
-        <h2 class="text-3xl font-semibold text-[#d4bea4] mb-3">Metallica-Website eneseanalüüs</h2>
+        <h2 class="text-3xl font-semibold text-[#d4bea4] mb-3">Matrix eneseanalüüs</h2>
         <p class="text-lg text-gray-300 leading-relaxed">
           Mida tegin? Töötasin peamiselt Figma disainerina, aidates kujundada kodulehe visuaalseid elemente ja
           struktuuri. Lisaks pakkusin tiimile kooditoe lahendusi, aidates lahendada tehnilisi probleeme ja suunates
@@ -119,7 +119,7 @@
       <!-- Disainimajaka Tehnikarendi Süsteem -->
       <div
         class="p-8 bg-gray-800 bg-opacity-40 rounded-2xl border border-[#d4bea4] shadow-md hover:shadow-xl transition transform hover:-translate-y-1">
-        <h2 class="text-3xl font-semibold text-[#d4bea4] mb-3">Disainimajaka tehnikarendi süsteemi eneseanalüüs</h2>
+        <h2 class="text-3xl font-semibold text-[#d4bea4] mb-3">Rental system eneseanalüüs</h2>
         <p class="text-lg text-gray-300 leading-relaxed">
           Mida tegin? Minu roll oli panustada disaini ja front-end arendusse. Tegin tihedat koostööd tiimiga, et
           kujundada süsteemi kasutajaliides Figmas ning aidata selle elluviimisel HTML-i ja Tailwindi abil. Toetasin ka
