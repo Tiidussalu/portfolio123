@@ -285,4 +285,34 @@ html, body {
   right: 20px;
   transform: rotate(-15deg);
 }
+/* Remove hover effect by default on desktop */
+.card-container:hover .card {
+  transform: rotateY(180deg);
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  /* Disable the hover effect on mobile */
+  .card-container:hover .card {
+    transform: none;
+  }
+  
+  /* When the 'flipped' class is added, rotate the card */
+  .card.flipped {
+    transform: rotateY(180deg);
+  }
+}
+
 </style>
+
+<script>
+  // Check if we're on a mobile device (or small screen)
+  if (window.innerWidth <= 768) {
+    document.querySelectorAll('.card-container').forEach(function(container) {
+      container.addEventListener('click', function() {
+        const card = container.querySelector('.card');
+        card.classList.toggle('flipped');
+      });
+    });
+  }
+</script>
