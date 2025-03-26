@@ -7,7 +7,7 @@ import Page from '/src/components/page.vue';
 
 
 const routes = [
-  { path: '/portfolio', component: Portfolio },
+  { path: '/', component: Portfolio },
   { path: '/about', component: About },
   { path: '/talk', component: Talk},
   { path: '/page', component: Page},

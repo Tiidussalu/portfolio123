@@ -7,6 +7,13 @@
         Delivering Premium Web Design and Development Services to Boost Your Online Presence.
       </p>
     </header>
+    <!-- Scroll Indicator -->
+    <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+      <svg class="mb-12 w-6 h-6 text-[#d4bea4]" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+      </svg>
+    </div>
   </section>
 
   <section class="bg-black text-white min-h-screen flex items-center justify-center font-sans">
@@ -65,7 +72,8 @@
     <div
       class="max-w-4xl bg-gray-800 bg-opacity-40 p-10 rounded-3xl shadow-2xl border border-[#d4bea4] backdrop-blur-md">
       <p class="text-lg leading-relaxed text-gray-300">
-        Mina olen <span class="font-bold text-[#d4bea4]">Taaniel Tiidussalu</span>, 18-aastane noormees, kes õpib Kuressaare
+        Mina olen <span class="font-bold text-[#d4bea4]">Taaniel Tiidussalu</span>, 18-aastane noormees, kes õpib
+        Kuressaare
         Ametikoolis IT erialal.
         Olen omandanud mitmeid IT-alaseid oskusi, sealhulgas HTML, CSS, TailwindCSS, JavaScript ja PHP, ning kasutan
         neid teadmisi enesekindlalt.

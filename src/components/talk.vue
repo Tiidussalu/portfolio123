@@ -40,6 +40,7 @@
 
       <!-- Business Card Mockup -->
       <div class="w-full md:w-1/2 flex flex-col items-center justify-center">
+        <div><h1 class="mb-8 text-[24px] text-[#DAC5A7] font-bold">BUSINESS CARD</h1></div>
         <!-- Card Flip Container -->
         <div class="card-container">
           <!-- The Card -->
@@ -55,8 +56,8 @@
                   <p class="card-title">Website Creator</p>
                   
                   <div class="card-contact-info">
-                    <p><span>Email:</span> taaniel@example.com</p>
-                    <p><span>Website:</span> www.taaniel.com</p>
+                    <p><span>Email:</span> taaniel.tiidussalu@ametikool.ee</p>
+                    <p><span>Website:</span> www.taaniel.ee</p>
                   </div>
                 </div>
               </div>
@@ -69,7 +70,7 @@
                 
                 <div class="card-social-info">
                   <p><span>LinkedIn:</span> linkedin.com/in/taaniel</p>
-                  <p><span>GitHub:</span> github.com/taaniel</p>
+                  <p><span>GitHub:</span> github.com/Tiidussalu</p>
                 </div>
                 
                 <!-- Decorative element -->

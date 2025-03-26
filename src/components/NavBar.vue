@@ -3,7 +3,7 @@
     <nav class="bg-gradient-to-r from-gray-900 to-black flex items-center py-4 px-8 shadow-lg">
       <!-- Logo -->
       <router-link 
-        to="portfolio" 
+        to="./" 
         class="text-[#d4bea4] font-extrabold text-xl tracking-widest uppercase transition duration-300 hover:scale-105">
         Taaniel
       </router-link>
